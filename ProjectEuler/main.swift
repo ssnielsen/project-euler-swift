@@ -8,7 +8,7 @@
 
 import Foundation
 
-let problem = Problem013()
+let problem = Problem014()
 
 let duration = measure {
     let result = problem.solve()
